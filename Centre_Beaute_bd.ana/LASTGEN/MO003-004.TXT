@@ -1,0 +1,16 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+produit		TAR	169	nouvelle taille enregistrement : 169
+produit	CapaciteUnite	RUB+		CapaciteUnite est une nouvelle rubrique
+Command		TAR	392	nouvelle taille enregistrement : 392
+Command	valide	RUB+		valide est une nouvelle rubrique
+connexion	IDpersonne	NNR	idService	ATTENTION : la clé idService a pour nouveau nom IDpersonne
+EntréeStock		NFI		nouveau fichier
+SortieStock		NFI		nouveau fichier
+SortieStock		FIC-	ligneProduit	Fichier supprimé ligneProduit
+personne		NWL	personne (IDpersonne) et SortieStock (FaitPar)	Nouvelle liaison entre les fichiers personne (IDpersonne) et SortieStock (FaitPar)
+produit		NWL	produit (ref) et SortieStock (Ref)	Nouvelle liaison entre les fichiers produit (ref) et SortieStock (Ref)
+personne		NWL	personne (IDpersonne) et EntréeStock (FaitPar)	Nouvelle liaison entre les fichiers personne (IDpersonne) et EntréeStock (FaitPar)
+produit		NWL	produit (ref) et EntréeStock (Ref)	Nouvelle liaison entre les fichiers produit (ref) et EntréeStock (Ref)
+produit		DEL	produit (ref) et ligneProduit (Ref)	Liaison supprimée entre les fichiers produit (ref) et ligneProduit (Ref)
+EntréeStock		FRN		
+SortieStock		FRN		

@@ -1,0 +1,16 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+personne		TAR	309	nouvelle taille enregistrement : 309
+personne	Login	RUB+		Login est une nouvelle rubrique
+personne	password	RUB+		password est une nouvelle rubrique
+personne	admin	RUB+		admin est une nouvelle rubrique
+ligneService		NNF*	ligneTache	nouveau nom ligneService
+ligneService		TAR	33	nouvelle taille enregistrement : 33
+ligneService	IDligneService	NNR	IDligneTache	ATTENTION : la clé IDligneTache a pour nouveau nom IDligneService
+ligneService	Id	RUB+		Id est une nouvelle clé
+ligneProduit		NFI		nouveau fichier
+connexion		NFI		nouveau fichier
+service		NWL	service (id) et ligneService (Id)	Nouvelle liaison entre les fichiers service (id) et ligneService (Id)
+ligneService		NWL	ligneService (IDligneService) et ligneProduit (IDligneService)	Nouvelle liaison entre les fichiers ligneService (IDligneService) et ligneProduit (IDligneService)
+produit		NWL	produit (ref) et ligneProduit (Ref)	Nouvelle liaison entre les fichiers produit (ref) et ligneProduit (Ref)
+personne		NWL	personne (id) et connexion (Id)	Nouvelle liaison entre les fichiers personne (id) et connexion (Id)
+ligneService		FRN		

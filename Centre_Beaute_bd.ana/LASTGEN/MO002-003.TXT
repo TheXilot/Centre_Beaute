@@ -1,0 +1,29 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+categorie_service	idCategorieService	NNR	id	ATTENTION : la clé id a pour nouveau nom idCategorieService
+service	idService	NNR	id	ATTENTION : la clé id a pour nouveau nom idService
+personne		TAR	317	nouvelle taille enregistrement : 317
+personne	IDpersonne	NNR	id	ATTENTION : la clé id a pour nouveau nom IDpersonne
+personne	photo	RUB+		photo est une nouvelle rubrique
+type_personne	idService	NNR	id	ATTENTION : la clé id a pour nouveau nom idService
+Command		NNF*	tache	nouveau nom Command
+Command		TAR	391	nouvelle taille enregistrement : 391
+Command	IdCommand	NNR	IDtache	ATTENTION : la clé IDtache a pour nouveau nom IdCommand
+Command	IDpersonne	RUB+		IDpersonne est une nouvelle clé
+connexion	idService	NNR	Id	ATTENTION : la clé Id a pour nouveau nom idService
+personne_service		NFI		nouveau fichier
+Command_service		NFI		nouveau fichier
+service_produit		NFI		nouveau fichier
+ParmCentre		NFI		nouveau fichier
+ParmCentre		FIC-	ligneService	Fichier supprimé ligneService
+personne		NWL	personne (IDpersonne) et personne_service (IdPersonne)	Nouvelle liaison entre les fichiers personne (IDpersonne) et personne_service (IdPersonne)
+service		NWL	service (idService) et service_produit (IdService)	Nouvelle liaison entre les fichiers service (idService) et service_produit (IdService)
+service		NWL	service (idService) et Command_service (IdService)	Nouvelle liaison entre les fichiers service (idService) et Command_service (IdService)
+Command		NWL	Command (IdCommand) et Command_service (IdCommand)	Nouvelle liaison entre les fichiers Command (IdCommand) et Command_service (IdCommand)
+service		NWL	service (idService) et personne_service (IdService)	Nouvelle liaison entre les fichiers service (idService) et personne_service (IdService)
+personne		NWL	personne (IDpersonne) et Command (IDpersonne)	Nouvelle liaison entre les fichiers personne (IDpersonne) et Command (IDpersonne)
+produit		NWL	produit (ref) et service_produit (Ref)	Nouvelle liaison entre les fichiers produit (ref) et service_produit (Ref)
+service		DEL	service (id) et personne (Id_service)	Liaison supprimée entre les fichiers service (id) et personne (Id_service)
+tache		DEL	tache (IDtache) et ligneService (IDtache)	Liaison supprimée entre les fichiers tache (IDtache) et ligneService (IDtache)
+service		DEL	service (id) et ligneService (Id)	Liaison supprimée entre les fichiers service (id) et ligneService (Id)
+ligneService		DEL	ligneService (IDligneService) et ligneProduit (IDligneService)	Liaison supprimée entre les fichiers ligneService (IDligneService) et ligneProduit (IDligneService)
+Command		FRN		

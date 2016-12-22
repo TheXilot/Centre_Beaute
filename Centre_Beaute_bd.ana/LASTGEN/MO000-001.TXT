@@ -1,0 +1,17 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+categorie_service		NFI		nouveau fichier
+service		NFI		nouveau fichier
+personne		NFI		nouveau fichier
+type_personne		NFI		nouveau fichier
+produit		NFI		nouveau fichier
+categorie_produit		NFI		nouveau fichier
+unite		NFI		nouveau fichier
+tache		NFI		nouveau fichier
+ligneTache		NFI		nouveau fichier
+categorie_service		NWL	categorie_service (id) et service (Id_categorie_service)	Nouvelle liaison entre les fichiers categorie_service (id) et service (Id_categorie_service)
+service		NWL	service (id) et personne (Id_service)	Nouvelle liaison entre les fichiers service (id) et personne (Id_service)
+type_personne		NWL	type_personne (id) et personne (Id1)	Nouvelle liaison entre les fichiers type_personne (id) et personne (Id1)
+categorie_produit		NWL	categorie_produit (IDcategorie_produit) et produit (IDcategorie_produit)	Nouvelle liaison entre les fichiers categorie_produit (IDcategorie_produit) et produit (IDcategorie_produit)
+unite		NWL	unite (IDunite) et produit (IDunite)	Nouvelle liaison entre les fichiers unite (IDunite) et produit (IDunite)
+tache		NWL	tache (IDtache) et ligneTache (IDtache)	Nouvelle liaison entre les fichiers tache (IDtache) et ligneTache (IDtache)
+personne	etat_civile	RRN		
