@@ -12,3 +12,10 @@ Centre Beaute
 
 4.`Modifier la fenetre Model`
 
+##branche personne
+
+>I. Ajouter le type personne, seulement un tableau.
+
+>II. Login de l'admin (mette en 1er) et un mainFenetre vide utilise()
+
+>III. fiche et tableau de personnes {bien preparer et documenter}
