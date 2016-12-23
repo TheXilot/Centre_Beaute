@@ -1,2 +1,3 @@
 //MO004-005.TXT ANA00004 TO ANA00005
-personne	Login	CLEU*		la rubrique Login est maintenant une clé
+produit		TAR	220	nouvelle taille enregistrement : 220
+produit	description	RUB+		description est une nouvelle rubrique

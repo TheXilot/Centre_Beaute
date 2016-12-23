@@ -1,3 +1,0 @@
-//MO005-006.TXT ANA00005 TO ANA00006
-personne	etat_civile	CNW	Entier non signé sur 1 octet$Booléen	la rubrique etat_civile a pour nouveau type Entier non signé sur 1 octet
-personne	etat_civile	RRM		
