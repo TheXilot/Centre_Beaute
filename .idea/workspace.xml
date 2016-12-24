@@ -2,85 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90b967a2-6c2b-444f-9a29-0d258849a323" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/$Centre_Beaute.wbp" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wep" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.WPF" afterPath="$PROJECT_DIR$/Centre_Beaute.WPF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wbp" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wbp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wcp" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wcp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wrp" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wrp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wig" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wlr" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wlr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_evolution3.3F38E035.wdt.wbw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_evolution3.3F38E035.wdt.wbw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_evolution3.3F38E035.wdt.wrw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_evolution3.3F38E035.wdt.wrw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_mainModel.C0724593.wdt.wbw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_mainModel.C0724593.wdt.wbw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_mainModel.C0724593.wdt.wcw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_mainModel.C0724593.wdt.wcw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_mainModel.C0724593.wdt.wrw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FENMOD_mainModel.C0724593.wdt.wrw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_Categorie_Service.8BD40CC0.wdw.wbw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_Categorie_Service.8BD40CC0.wdw.wbw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_Categorie_Service.8BD40CC0.wdw.wcw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_Categorie_Service.8BD40CC0.wdw.wcw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_Categorie_Service.8BD40CC0.wdw.wrw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_Categorie_Service.8BD40CC0.wdw.wrw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_fiche_categorie_service.704513FE.wdw.wbw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_fiche_categorie_service.704513FE.wdw.wbw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_fiche_categorie_service.704513FE.wdw.wrw" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/FEN_fiche_categorie_service.704513FE.wdw.wrw" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.waudit" afterPath="$PROJECT_DIR$/Centre_Beaute.waudit" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.wdp" afterPath="$PROJECT_DIR$/Centre_Beaute.wdp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.emf" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.emf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.eu.emf" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.eu.emf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.wda" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.wda" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.wdap" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.wdap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.wdd" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.wdd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bdFR.eu.emf" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bdFR.eu.emf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Centre_Beaute_bd.wda" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Centre_Beaute_bd.wda" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Centre_Beaute_bd.wdap" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Centre_Beaute_bd.wdap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Centre_Beaute_bd.wdd" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Centre_Beaute_bd.wdd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wdp.wbp" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wdp.wbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wdp.wrp" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wdp.wrp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wig" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/Code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/RADProp.fic" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/RADProp.fic" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/RADProp.mmo" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/RADProp.mmo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/RADRub.fic" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/RADRub.fic" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/RADRub.mmo" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/RADRub.mmo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/modif.mdf" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/modif.mdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADProp.FIC" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADProp.FIC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADProp.mmo" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADProp.mmo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADPropp.fic" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADPropp.fic" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADPropp.mmo" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADPropp.mmo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADRub.FIC" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADRub.FIC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADRub.mmo" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADRub.mmo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADRubp.fic" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADRubp.fic" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADRubp.mmo" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/RADRubp.mmo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wdp.wbp" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wdp.wbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wig" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/Centre_Beaute_bd.wda" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/Centre_Beaute_bd.wda" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/Centre_Beaute_bd.wdap" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/Centre_Beaute_bd.wdap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/RADProp.fic" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/RADProp.fic" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/RADProp.mmo" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/RADProp.mmo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/RADRub.fic" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/RADRub.fic" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/RADRub.mmo" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/RADRub.mmo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/modif.mdf" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/lastsave/modif.mdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/modif.mdf" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/modif.mdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.eu.emf" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.eu.emf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.wdd" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.wdd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bdFR.eu.emf" afterPath="$PROJECT_DIR$/Centre_Beaute_bdFR.eu.emf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exe/categorie_service.fic" afterPath="$PROJECT_DIR$/Exe/categorie_service.fic" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exe/service.fic" afterPath="$PROJECT_DIR$/Exe/service.fic" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FENMOD_mainModel.wdt" afterPath="$PROJECT_DIR$/FENMOD_mainModel.wdt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FEN_Categorie_Service.wdw" afterPath="$PROJECT_DIR$/FEN_Categorie_Service.wdw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RADProp.FIC" afterPath="$PROJECT_DIR$/RADProp.FIC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RADProp.mmo" afterPath="$PROJECT_DIR$/RADProp.mmo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RADRub.FIC" afterPath="$PROJECT_DIR$/RADRub.FIC" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RADRub.mmo" afterPath="$PROJECT_DIR$/RADRub.mmo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exe/connexion.fic" afterPath="$PROJECT_DIR$/Exe/connexion.fic" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exe/connexion.ndx" afterPath="$PROJECT_DIR$/Exe/connexion.ndx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sauvegarde/Centre_Beaute.bkp" afterPath="$PROJECT_DIR$/Sauvegarde/Centre_Beaute.bkp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sauvegarde/Centre_Beaute.tkp" afterPath="$PROJECT_DIR$/Sauvegarde/Centre_Beaute.tkp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sauvegarde/FENMOD_mainModel.bkt" afterPath="$PROJECT_DIR$/Sauvegarde/FENMOD_mainModel.bkt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sauvegarde/FENMOD_mainModel.tkt" afterPath="$PROJECT_DIR$/Sauvegarde/FENMOD_mainModel.tkt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.env" afterPath="$PROJECT_DIR$/Centre_Beaute.env" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.REP" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.REP" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.REP" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.REP" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.env" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.env" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.xdd" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/Centre_Beaute_bd.xdd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/MODIF.TXT" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/LASTGEN/MODIF.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/MODIF.TXT" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/MODIF.TXT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/code/Centre_Beaute_bd.env" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.ana/code/Centre_Beaute_bd.env" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.xdd" afterPath="$PROJECT_DIR$/Centre_Beaute_bd.xdd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HstDuree.log" afterPath="$PROJECT_DIR$/HstDuree.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -102,7 +39,28 @@
     <favorites_list name="Centre_Beaute" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,8 +68,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -153,10 +111,27 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
       <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Centre_Beaute" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Centre_Beaute" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Centre_Beaute" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,17 +156,18 @@
       <workItem from="1482497283356" duration="682000" />
       <workItem from="1482498191690" duration="1919000" />
       <workItem from="1482500395141" duration="5274000" />
+      <workItem from="1482578211333" duration="604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7875000" />
+    <option name="totallyTimeSpent" value="8479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1296" height="786" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -282,29 +258,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="340">
-            <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
@@ -317,6 +278,28 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>

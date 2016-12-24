@@ -1,6 +1,10 @@
 #cpl folder
 Centre_Beaute.cpl/
-
+Groupware/
+Centre_Beaute_bd.ana/
+Sauvegarde/
+Historique/
+.idea/
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
