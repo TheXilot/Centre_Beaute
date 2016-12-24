@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90b967a2-6c2b-444f-9a29-0d258849a323" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Centre_Beaute_bd.ana/code/Centre_Beaute_bd.cpl/anonyme/00000000/Centre_Beaute_bd.wep" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.WPF" afterPath="$PROJECT_DIR$/Centre_Beaute.WPF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wbp" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wcp" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wcp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wrp" afterPath="$PROJECT_DIR$/Centre_Beaute.cpl/anonyme/00000000/Centre_Beaute.wdp.wrp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.waudit" afterPath="$PROJECT_DIR$/Centre_Beaute.waudit" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.wdp" afterPath="$PROJECT_DIR$/Centre_Beaute.wdp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exe/connexion.fic" afterPath="$PROJECT_DIR$/Exe/connexion.fic" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Exe/connexion.ndx" afterPath="$PROJECT_DIR$/Exe/connexion.ndx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sauvegarde/Centre_Beaute.bkp" afterPath="$PROJECT_DIR$/Sauvegarde/Centre_Beaute.bkp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Centre_Beaute.env" afterPath="$PROJECT_DIR$/Centre_Beaute.env" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HstDuree.log" afterPath="$PROJECT_DIR$/HstDuree.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="Centre_Beaute.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitattributes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="226">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -156,12 +130,12 @@
       <workItem from="1482497283356" duration="682000" />
       <workItem from="1482498191690" duration="1919000" />
       <workItem from="1482500395141" duration="5274000" />
-      <workItem from="1482578211333" duration="604000" />
+      <workItem from="1482578211333" duration="1063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8479000" />
+    <option name="totallyTimeSpent" value="8938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1296" height="786" extended-state="6" />
@@ -297,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="226">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
