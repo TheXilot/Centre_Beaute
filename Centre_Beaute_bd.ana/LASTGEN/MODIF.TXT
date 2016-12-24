@@ -1,2 +1,1 @@
-//MO007-008.TXT ANA00007 TO ANA00008
-personne	Login	CLEU*		la rubrique Login est maintenant une clé
+//MO008-009.TXT ANA00008 TO ANA00009

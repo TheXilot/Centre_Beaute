@@ -17,3 +17,9 @@ Sauvegarde
 >Parametrage de l'App
 
  `Parametre d'intialisation de l'App`
+
+ >Service et les catagrories de chaqu'un
+
+ `les tableau des service de chaque catg `
+
+ >init de Command
