@@ -13,3 +13,7 @@ Sauvegarde
 2. Affiche les resultats dans un tableau HistoriqueConx
 
 `Commit : Historique Connexion`
+
+>Parametrage de l'App
+
+ `Parametre d'intialisation de l'App`
