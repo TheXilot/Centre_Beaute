@@ -1,0 +1,5 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Command		TAR	403	nouvelle taille enregistrement : 403
+Command	prixTotal	RUB+		prixTotal est une nouvelle rubrique
+Command_service		TAR	39	nouvelle taille enregistrement : 39
+Command_service	total	RUB+		total est une nouvelle rubrique

@@ -1,0 +1,4 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Command_produit		NFI		nouveau fichier
+Command		NWL	Command (IdCommand) et Command_produit (IdCommand)	Nouvelle liaison entre les fichiers Command (IdCommand) et Command_produit (IdCommand)
+produit		NWL	produit (ref) et Command_produit (Ref)	Nouvelle liaison entre les fichiers produit (ref) et Command_produit (Ref)

@@ -1,0 +1,5 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Command		TAR	411	nouvelle taille enregistrement : 411
+Command	IDreglement	RUB+		IDreglement est une nouvelle clé
+reglement		NFI		nouveau fichier
+reglement		NWL	reglement (IDreglement) et Command (IDreglement)	Nouvelle liaison entre les fichiers reglement (IDreglement) et Command (IDreglement)
