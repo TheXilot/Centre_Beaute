@@ -1,1 +1,3 @@
-//MO019-020.TXT ANA00019 TO ANA00020
+//MO020-021.TXT ANA00020 TO ANA00021
+Conge		NFI		nouveau fichier
+personne		NWL	personne (IDpersonne) et Conge (IDpersonne)	Nouvelle liaison entre les fichiers personne (IDpersonne) et Conge (IDpersonne)

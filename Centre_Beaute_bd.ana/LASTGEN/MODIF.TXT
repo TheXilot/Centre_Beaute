@@ -1,3 +1,1 @@
-//MO018-019.TXT ANA00018 TO ANA00019
-personne		TAR	360	nouvelle taille enregistrement : 360
-personne	leNomComplet	RUB+		leNomComplet est une nouvelle rubrique
+//MO019-020.TXT ANA00019 TO ANA00020
